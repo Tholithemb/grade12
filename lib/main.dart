@@ -24,8 +24,6 @@ class _MyAppState extends State<MyApp> {
       dpapersPage(),
       sitesPage(),
 
-
-
   ];
   @override
   Widget build(BuildContext context) {
